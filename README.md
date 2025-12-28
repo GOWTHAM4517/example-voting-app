@@ -1,3 +1,13 @@
+## Example Voting App – Docker & Kubernetes (My Implementation)
+
+I deployed this multi-container application using Docker Compose and Kubernetes on Docker Desktop (local cluster).
+
+### What I did
+- Ran the application using Docker Compose
+- Deployed the same app to Kubernetes using Deployments and Services
+- Exposed services using NodePort
+- Verified pod health using kubectl
+- Cleaned up Kubernetes resources properly
 # Example Voting App
 
 A simple distributed application running across multiple Docker containers.
